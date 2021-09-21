@@ -7,7 +7,7 @@ Hi there 👋 My name is Sam (Mistiik) A French Developer working on several pro
 🖥️ Main projects
 
  - Intellibot.ai => A Discord.js AI Bot
- - Paradox Studio => Develompent Team I am in creating a game called 'Defenders' !
+ - Paradox Studio => Development Team I am in creating a game called 'Defenders' !
 
 📚 Main languages
  - Lua(U)   
