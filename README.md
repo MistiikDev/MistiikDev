@@ -1,13 +1,19 @@
-Hi there 👋 My name is Sam (Mistiik) A French Developer working on several projects at the time. One and not least being my own Engine !
+Hi there 👋 My name is Sam (Mistiik) French Dev (baguette) taking an interest on programming in general
 
 📖 School
 
-  - I'm a year 10 pupil in France. I both love Maths, Physics and NSI (A.K.A. computer science).
+  - Taking interest Maths, Physics and SI (Engeneering), heading to Aerospace engeneering studies
+
+💨Past projects
+
+ - Artillery System => Modular artillery system
+ - SBMM Module => Skilled Based Matchmaking open source module for devs to implement in their games
+ - Intellibot.ai => A Discord.js AI Bot
+ - Paradox Studio => 'Defenders', FPS Tactical shooter
 
 🖥️ Main projects
-
- - Intellibot.ai => A Discord.js AI Bot
- - Paradox Studio => Development Team I am in creating a game called 'Defenders' !
+ - Aircraft physics implementation in Roblox
+ - Looking to be hired.
 
 📚 Main languages
  - Lua(U)   
