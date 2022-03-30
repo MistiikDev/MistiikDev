@@ -15,6 +15,7 @@ Hi there 👋 My name is Sam (Mistiik) French Dev (baguette) taking an interest 
  - Basic settings app (Windows)
 
 🖥️ Main projects
+ - Kill-Cam Module in Roblox 
  - Aircraft physics implementation in Roblox
  - Looking to be hired.
 
