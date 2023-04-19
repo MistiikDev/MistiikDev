@@ -1,8 +1,8 @@
-Hi there 👋 My name is Sam (Mistiik) French Dev (baguette) taking an interest on programming in general
+Hi there 👋 My name is Brice (Mistiik) UK Dev taking an interest on programming in general
 
 📖 School
 
-  - Taking interest in Maths, Physics and SI (Engeneering), heading to Aerospace engeneering studies
+  - Taking interest in Maths, Physics and Engeneering, heading to Aerospace engeneering studies
 
 💨Past projects
 
