@@ -1,23 +1,27 @@
-Hi there 👋 My name is Brice (Mistiik) UK Dev taking an interest on programming in general
+<h1 align="center">Hi 👋, I'm Mistiik</h1>
+<h3 align="center">Former Roblox Developer who made his time. Math, Physics and Chemistry graduate</h3>
 
-📖 School
+<p align="left"> <a href="https://twitter.com/sbruinspy" target="blank"><img src="https://img.shields.io/twitter/follow/sbruinspy?logo=twitter&style=for-the-badge" alt="sbruinspy" /></a> </p>
 
-  - Taking interest in Maths, Physics and Engeneering, heading to Aerospace engeneering studies
+- 🔭 I’m currently working on [FNaF SB:RUIN Spy](https://twitter.com/SBRUINSpy)
 
-💨Past projects
+- 🌱 I’m learning **Objective-C**
 
- - Artillery System => Modular artillery system (Roblox)
- - SBMM Module => Skilled Based Matchmaking open source module for devs to implement in their games (Roblox)
- - Intellibot.ai => A Discord.js AI Bot (Discord.JS)
- - Paradox Studio => 'Defenders', FPS Tactical shooter (Roblox) 
- - Raycast spring based car (Unity)
- - Weather transition system (Unity, lost it, maybe going to redo it one day) 
- - Basic settings app (Windows)
+- 🔭 I’m currently making a framework on **Unreal Engine 5 (C++)**
 
-🖥️ Main projects
- - Kill-Cam Module in Roblox 
- - Aircraft physics implementation in Roblox
- - Looking to be hired.
+- 👨‍💻 All of my projects are available at [https://github.com/MistiikDev/](https://github.com/MistiikDev/)
 
-📚 Main languages
- - 3 Years of experience with C#, C++, Python, Lua(U) and Web Development
+- 📝 I regularly write articles on [Reddit](Reddit)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sbruinspy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sbruinspy" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mistiikdev&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mistiikdev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mistiikdev&show_icons=true&locale=en" alt="mistiikdev" /></p>
+
