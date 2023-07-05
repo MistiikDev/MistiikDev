@@ -1,24 +1,23 @@
-<h1 align="center">Hi 👋, I'm Mistiik</h1>
+<h1 align="center">Hi 👋, I'm DAF</h1>
 <h3 align="center">Former Roblox Developer who made his time. Math, Physics and Chemistry graduate</h3>
 
-<p align="left"> <a href="https://twitter.com/sbruinspy" target="blank"><img src="https://img.shields.io/twitter/follow/sbruinspy?logo=twitter&style=for-the-badge" alt="sbruinspy" /></a> </p>
-- 👨‍🔬 Math and physics graduate, working with high intensity maths.
+<p align="left"> <a href="https://twitter.com/ruintracker" target="blank"><img src="https://img.shields.io/twitter/follow/sbruinspy?logo=twitter&style=for-the-badge" alt="ruintracker" /></a> </p>
 
 - 🔭 I’m currently the main engineer on [@RUINTracker]([https://twitter.com/SBRUINSpy](https://twitter.com/RUINTracker))
 
 - 🌱 I’m learning **Objective-C**
+  
+- 👨‍🎓 Math and physics graduate. I write articles, make videos and help people with these obscure sciences.
 
-- 🔭 I’m currently making a framework on **Unreal Engine 5 (C++)**
+- 🔭 Creator of the *UltimatePlayerFramework* for **Unreal Engine 5 (C++)** (SDK for UE5 FPS Horror / Adventure games)
 
-- 🔭 I datamine games on *Unreal Engine 4*
+- ⛏ I datamine games on *Unreal Engine 4*
 
 - 👨‍💻 All of my projects are available at [https://github.com/MistiikDev/](https://github.com/MistiikDev/)
 
-- 📝 I regularly write articles on [Reddit](Reddit)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sbruinspy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sbruinspy" height="30" width="40" /></a>
+<a href="https://twitter.com/dafrenchnoob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sbruinspy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
