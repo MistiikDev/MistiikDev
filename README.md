@@ -2,12 +2,15 @@
 <h3 align="center">Former Roblox Developer who made his time. Math, Physics and Chemistry graduate</h3>
 
 <p align="left"> <a href="https://twitter.com/sbruinspy" target="blank"><img src="https://img.shields.io/twitter/follow/sbruinspy?logo=twitter&style=for-the-badge" alt="sbruinspy" /></a> </p>
+- 👨‍🔬 Math and physics graduate, working with high intensity maths.
 
-- 🔭 I’m currently working on [FNaF SB:RUIN Spy](https://twitter.com/SBRUINSpy)
+- 🔭 I’m currently the main engineer on [@RUINTracker]([https://twitter.com/SBRUINSpy](https://twitter.com/RUINTracker))
 
 - 🌱 I’m learning **Objective-C**
 
 - 🔭 I’m currently making a framework on **Unreal Engine 5 (C++)**
+
+- 🔭 I datamine games on *Unreal Engine 4*
 
 - 👨‍💻 All of my projects are available at [https://github.com/MistiikDev/](https://github.com/MistiikDev/)
 
