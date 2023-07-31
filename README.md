@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DAF</h1>
-<h3 align="center">Former Roblox Developer who made his time. Math, Physics and Chemistry graduate</h3>
+<h3 align="center">Former Roblox Developer who made his time. Worked with top class / front page games and studios. Math, Physics and Chemistry graduate</h3>
 
 <p align="left"> <a href="https://twitter.com/ruintracker" target="blank"><img src="https://img.shields.io/twitter/follow/sbruinspy?logo=twitter&style=for-the-badge" alt="ruintracker" /></a> </p>
 
