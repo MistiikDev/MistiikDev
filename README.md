@@ -13,7 +13,7 @@
 
 - ⛏ I datamine games on *Unreal Engine 4*
 
-- 👨‍💻 All of my projects are available at [https://github.com/MistiikDev/](https://github.com/MistiikDev/)
+- 👨‍💻 Some of my projects are available at [https://github.com/MistiikDev/](https://github.com/MistiikDev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
