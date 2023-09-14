@@ -1,7 +1,12 @@
 # DAF
-## - Old ROBLOX STUDIO DEVELOPER
-## - RUINTracker Creator
 
+Creator of RUINTracker.
+
+Former Gameplay Programmer for : 
+ - No-Scope-Arcade, Militant (Iconic Gaming)
+ - Iconic Gaming, Hexo, Octa Studios
+
+Always pushing the boundaries. Open to work
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/MistiikDev/count.svg?"  />
