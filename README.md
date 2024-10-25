@@ -1,6 +1,18 @@
-<h2 align="center">Hi 👋! My name is DAF, welcome to my GitHub!</h2>
+<h2 align="left">
+ Welcome to my GitHub page!
+</h2>
 
-###
+<pre>
+  <div align="left">
+    ⚙️ Studying Engineering at IMT Nord Europe (1st Year)
+
+    👨‍💻 Interested in Software Engineering and Artificial Intelligence
+
+    🎮 Experience Game Developer (Roblox) with multiple Game Studios (Iconic Gaming, Octa Studios, Helloburp Games)
+
+    🌌 Passionate about Mathematics and Astronomy
+  </div>  
+</pre>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MistiikDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
