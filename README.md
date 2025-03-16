@@ -4,13 +4,13 @@
 
 <pre>
   <div align="left">
-    ⚙️ Studying Engineering at IMT Nord Europe (1st Year)
+    ⚙️ Studying Engineering at IMT Nord Europe (1st Year). Interested in Software Engineering and Artificial Intelligence
 
-    👨‍💻 Interested in Software Engineering and Artificial Intelligence
+    👨‍💻 Software and Bot Creator in JavaScript, C# and Lua(U)
 
-    🎮 Experience Game Developer (Roblox) with multiple Game Studios (Iconic Gaming, Octa Studios, Helloburp Games)
+    🎮 Experienced Game Developer (Roblox) with multiple Game Studios (Iconic Gaming, Octa Studios, Helloburp Games)
 
-    🌌 Passionate about Mathematics and Astronomy
+    🌌 Passionate about Mathematics, Physics and Astronomy
   </div>  
 </pre>
 
