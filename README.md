@@ -6,9 +6,9 @@
   <div align="left">
     ⚙️ Studying Engineering at IMT Nord Europe (1st Year). Interested in Software Engineering and Artificial Intelligence
 
-    👨‍💻 Software and Bot Creator in JavaScript, C# and Lua(U)
+    👨‍💻 Software and Bot Creator in JavaScript, C#, Python and Lua(U)
 
-    🎮 Experienced Game Developer (Roblox) with multiple Game Studios (Iconic Gaming, Octa Studios, Helloburp Games)
+    🎮 Experienced Game Developer (Roblox, Unreal Engine, Unity) with multiple Game Studios (Iconic Gaming, Octa Studios, Helloburp Games)
 
     🌌 Passionate about Mathematics, Physics and Astronomy
   </div>  
@@ -37,7 +37,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
 
 ###
@@ -49,16 +48,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />          
 </div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-</div>
-
-###
