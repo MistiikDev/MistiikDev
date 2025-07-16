@@ -6,7 +6,7 @@
   <div align="left">
     ⚙️ Studying Engineering at IMT Nord Europe (1st Year). Interested in Software Engineering and Artificial Intelligence
 
-    👨‍💻 Software and Bot Creator in JavaScript, C#, Python and Lua(U)
+    👨‍💻 Software and Bot Creator in C++, JavaScript, C#, Python and Lua(U)
 
     🎮 Experienced Game Developer (Roblox, Unreal Engine, Unity) with multiple Game Studios (Iconic Gaming, Octa Studios, Helloburp Games)
 
