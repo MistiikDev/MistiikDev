@@ -15,31 +15,49 @@
 </pre>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MistiikDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=MistiikDev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MistiikDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="http://www.github.com/MistiikDev"><img src="https://streak-stats.demolab.com?user=MistiikDev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /></a>
+ <a href="https://github.com/MistiikDev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MistiikDev&hide=cmake,shell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /></a>
 </div>
 
-###
-
-<img align="right" height="150" src="https://cdn.discordapp.com/avatars/617674042924859402/c2e2bfc87e84cfad47e7d6802a73ed9c?size=1024"  />
-
-###
-
+### Skills
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
+   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><picture>
+   <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/c-colored.svg" alt="C" />
+   </picture></a> &nbsp;
+   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><picture>
+   <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/cplusplus-colored.svg" alt="C++" />
+   </picture></a> &nbsp;
+   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><picture>
+   <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/csharp-colored.svg" alt="C#" />
+   </picture></a> &nbsp;
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><picture>
+   <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" />
+   </picture></a> &nbsp;
+   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><picture>
+   <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/python-colored.svg" alt="Python" />
+   </picture></a> &nbsp;
+   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><picture>
+   <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/html5-colored.svg" alt="HTML5" />
+   </picture></a> &nbsp;
+   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><picture>
+   <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/css3-colored.svg" alt="CSS3" />
+   </picture></a> &nbsp;
+   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><picture>
+   <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" />
+   </picture></a> &nbsp;
+   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><picture>
+   <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/photoshop-colored.svg" alt="Photoshop" />
+   </picture></a> &nbsp;
+   <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><picture>
+   <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" />
+   </picture></a> &nbsp;
+   <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><picture>
+    <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" />
+   </picture></a> &nbsp;
+ 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
+   <img width="12" />
 </div>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
@@ -50,3 +68,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />          
 </div>
+
+### Social
+
+   <a href="https://www.github.com/MistiikDev" target="_blank" rel="noreferrer">
+   <picture>
+   <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="github" />
+   </picture>
+   </a> &nbsp;
+   <a href="https://www.x.com/MistiikDev" target="_blank" rel="noreferrer">
+   <picture>
+   <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" alt="Twitter" />
+   </picture>
+   </a> &nbsp;
+   <a href="https://www.discord.com/users/daf_d" target="_blank" rel="noreferrer">
+   <picture>
+   <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/discord.svg" alt="discord" />
+   </picture>
+   </a> &nbsp;
