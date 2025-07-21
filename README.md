@@ -15,7 +15,6 @@
 </pre>
 
 <div align="center">
-  <a href="http://www.github.com/MistiikDev"><img src="https://streak-stats.demolab.com?user=MistiikDev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /></a>
  <a href="https://github.com/MistiikDev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MistiikDev&hide=cmake,shell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /></a>
 </div>
 
