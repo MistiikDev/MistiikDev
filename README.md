@@ -1,73 +1,75 @@
-<h2 align="left">
- Welcome to my GitHub page!
-</h2>
+<h1 align="left">Hey 👋 I'm @daf_developer</h1>
 
-<pre>
-  <div align="left">
-    ⚙️ Studying Engineering at IMT Nord Europe (1st Year). Interested in Software Engineering and Artificial Intelligence
+###
 
-    👨‍💻 Software and Bot Creator in C++, JavaScript, C#, Python and Lua(U)
+<h2 align="left">About me</h2>
 
-    🎮 Experienced Game Developer (Roblox, Unreal Engine, Unity) with multiple Game Studios (Iconic Gaming, Octa Studios, Helloburp Games)
+###
 
-    🌌 Passionate about Mathematics, Physics and Astronomy
-  </div>  
-</pre>
+<p align="left">⚙️ Studying Engineering at IMT Nord Europe<br><br>📚 I'm currently learning C and C++<br><br>🎯 Looking into artificial intelligence and software engineering<br><br>🎮  Experienced Game Dev (Unreal Engine, Unity, Roblox Studio) with multiple Studios (Iconic Gaming, Octa Studios, Helloburp Games)<br><br>🌌 Passionate about Mathematics, Physics and Astronomy</p>
 
-<div align="center">
- <a href="https://github.com/MistiikDev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MistiikDev&hide=cmake,shell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /></a>
+###
+
+<h2 align="left">Languages</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
 </div>
 
-### Skills
-<div align="center">
-   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><picture>
-   <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/c-colored.svg" alt="C" />
-   </picture></a> &nbsp;
-   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><picture>
-   <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/cplusplus-colored.svg" alt="C++" />
-   </picture></a> &nbsp;
-   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><picture>
-   <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/csharp-colored.svg" alt="C#" />
-   </picture></a> &nbsp;
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><picture>
-   <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" />
-   </picture></a> &nbsp;
-   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><picture>
-   <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/python-colored.svg" alt="Python" />
-   </picture></a> &nbsp;
-   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><picture>
-   <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/html5-colored.svg" alt="HTML5" />
-   </picture></a> &nbsp;
-   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><picture>
-   <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/css3-colored.svg" alt="CSS3" />
-   </picture></a> &nbsp;
-   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><picture>
-   <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" />
-   </picture></a> &nbsp;
-   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><picture>
-   <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/photoshop-colored.svg" alt="Photoshop" />
-   </picture></a> &nbsp;
-   <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><picture>
-   <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" />
-   </picture></a> &nbsp;
-   <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><picture>
-    <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" />
-   </picture></a> &nbsp;
- 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
-   <img width="12" />
+###
+
+<h2 align="left">Frameworks</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="40" alt="sdl logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
 </div>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+###
+
+<h2 align="left">Softwares</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />          
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MistiikDev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MistiikDev&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
 ### Social
 
    <a href="https://www.github.com/MistiikDev" target="_blank" rel="noreferrer">
