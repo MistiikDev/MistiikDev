@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'm @daf_developer</h1>
+<h1 align="left">@daf_developer</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">⚙️ Studying Engineering at IMT Nord Europe<br><br>📚 I'm currently learning C and C++<br><br>🎯 Looking into artificial intelligence and software engineering<br><br>🎮  Experienced Game Dev (Unreal Engine, Unity, Roblox Studio) with multiple Studios (Iconic Gaming, Octa Studios, Helloburp Games)<br><br>🌌 Passionate about Mathematics, Physics and Astronomy</p>
+<p align="left">⚙️ Studying Engineering at IMT Nord Europe - Looking into Software Engineering<br><br> 🎯 Learning C & C++<br><br>🎮 Experienced Game Dev (Unreal Engine, Unity, Roblox Studio) with multiple studios (Iconic Gaming, Octa Studios, Helloburp Games)<br><br> 🌌 Passionate about Mathematics, Physics and Astronomy</p>
 
 ###
 
