@@ -15,6 +15,8 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.simpleicons.org/opengl/5586A4" height="40" alt="opengl logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
